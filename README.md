@@ -100,6 +100,8 @@ A few key customers (CUST_ID_004, CUST_ID_040) contribute major sales volume.
 
 ![image](https://github.com/Rashid21320/Sales-Dashboard-using-Power-bi/blob/f80e0982b7c11e9a64386350583655a4338aaf62/Screenshot%202025-11-30%20014345.png)
 
+## Conclusion
+
 
 
  
