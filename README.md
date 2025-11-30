@@ -21,19 +21,19 @@
 ## Dataset Description
 The dashboard uses the following columns from the dataset:
 
- .Sales – Total sales amount
+ . Sales – Total sales amount
 
- .Profit – Profit generated from sales
+ . Profit – Profit generated from sales
 
- .Units Sold – Total number of units sold
+ . Units Sold – Total number of units sold
 
- .Country – Country-wise sales distribution
+ . Country – Country-wise sales distribution
 
- .Year & Month – For time-series analysis
+ . Year & Month – For time-series analysis
 
- .Product Name – Category-wise sales and units sold
+ . Product Name – Category-wise sales and units sold
 
- .Customer ID – For customer-level performance
+ . Customer ID – For customer-level performance
 
- .Segment – Customer segment (Government, Small Business, Enterprise)
+ . Segment – Customer segment (Government, Small Business, Enterprise)
 
