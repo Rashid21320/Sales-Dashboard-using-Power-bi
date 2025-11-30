@@ -2,7 +2,7 @@
 
 ## Objectives of the Dashboard
 
-The main objectives of this Power BI project are:
+    The main objectives of this Power BI project are:
 
  To provide a centralized view of total sales performance
  
