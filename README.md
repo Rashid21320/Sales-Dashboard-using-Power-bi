@@ -101,6 +101,20 @@ A few key customers (CUST_ID_004, CUST_ID_040) contribute major sales volume.
 ![image](https://github.com/Rashid21320/Sales-Dashboard-using-Power-bi/blob/f80e0982b7c11e9a64386350583655a4338aaf62/Screenshot%202025-11-30%20014345.png)
 
 ## Conclusion
+The Sales Dashboard provides a comprehensive and interactive overview of the company’s sales performance, enabling clear and data-driven decision-making. By combining multiple KPIs, visual charts, and filters, this dashboard highlights key insights such as top-selling products, high-revenue countries, profitable customer segments, and monthly sales trends.
+Through this analysis, several important conclusions emerge:
+
+. Paseo is the most profitable and highest-selling product.
+
+. The Government segment generates the largest share of total sales.
+
+. Canada contributes the highest revenue among all countries.
+
+. Overall sales show noticeable mid-year peaks, revealing seasonality in customer demand.
+
+. A few key customers significantly drive revenue, indicating strong customer concentration.
+
+This dashboard acts as a powerful tool for stakeholders to understand performance patterns, identify business opportunities, and make strategic decisions. It can be further expanded with real-time data, forecasting models, and advanced analytics for even deeper insights.
 
 
 
