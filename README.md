@@ -82,6 +82,25 @@ Treemap showing segment contributions:
 
 Government, Small Business, Enterprise
 
+## 🔍 Insights & Findings
+### 1. Paseo is the top-selling product
+
+It contributes 28% of total sales, making it the most profitable and in-demand product.
+###2. Government segment drives most revenue
+
+Government accounts for $52.5M, the highest among all segments.
+### 3.Sales peak around mid-year
+
+Monthly trend analysis shows sales rise significantly around June–August.
+### 4. Canada is the best-performing country
+
+Canada leads with over $10M in sales.
+
+### 5.Strong customer concentration
+A few key customers (CUST_ID_004, CUST_ID_040) contribute major sales volume.
+
+
+
  
  
 
