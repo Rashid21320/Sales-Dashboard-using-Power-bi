@@ -82,7 +82,7 @@ Treemap showing segment contributions:
 
 Government, Small Business, Enterprise
 
-## 🔍 Insights & Findings
+##  Insights & Findings
 ### 1. Paseo is the top-selling product
 
 It contributes 28% of total sales, making it the most profitable and in-demand product.
