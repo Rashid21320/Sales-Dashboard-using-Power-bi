@@ -86,14 +86,14 @@ Government, Small Business, Enterprise
 ### 1. Paseo is the top-selling product
 
 It contributes 28% of total sales, making it the most profitable and in-demand product.
-###2. Government segment drives most revenue
+### 2. Government segment drives most revenue
 
 Government accounts for $52.5M, the highest among all segments.
 ### 3.Sales peak around mid-year
 
 Canada leads with over $10M in sales.
 
-### 5.Strong customer concentration
+### 4.Strong customer concentration
 A few key customers (CUST_ID_004, CUST_ID_040) contribute major sales volume.
 
 
