@@ -98,6 +98,8 @@ A few key customers (CUST_ID_004, CUST_ID_040) contribute major sales volume.
 
 ## Dashboard
 
+![image]()
+
 
 
  
