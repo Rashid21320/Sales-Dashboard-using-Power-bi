@@ -11,3 +11,14 @@ The main objectives of this Power BI project are:
  To identify key customer revenue generators
  To study yearly and monthly sales trends
 
+## Dataset Description
+The dashboard uses the following columns from the dataset:
+Sales – Total sales amount
+Profit – Profit generated from sales
+Units Sold – Total number of units sold
+Country – Country-wise sales distribution
+Year & Month – For time-series analysis
+Product Name – Category-wise sales and units sold
+Customer ID – For customer-level performance
+Segment – Customer segment (Government, Small Business, Enterprise)
+
