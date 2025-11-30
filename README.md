@@ -37,11 +37,15 @@ The dashboard uses the following columns from the dataset:
 
  . Segment – Customer segment (Government, Small Business, Enterprise)
 
-## 📌 Key Metrics Displayed
-🟦 Unit Sold: 1.13M
-🟩 Total Sale: $118.7M
-🟧 Profit (%): 14.23%
-🟪 Profit ($): $16.89M
-🏆 Top Selling Product: Paseo ($33.01M)
+##  Key Metrics Displayed
+ . Unit Sold: 1.13M
+ 
+ . Total Sale: $118.7M
+ 
+ . Profit (%): 14.23%
+ 
+ . Profit ($): $16.89M
+ 
+ . Top Selling Product: Paseo ($33.01M)
  
 
